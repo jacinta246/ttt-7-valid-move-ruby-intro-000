@@ -1,5 +1,6 @@
 def valid_move?(board, index)
-  ## code for valid_move? goes here
+#check if index is within the bounds of the board
+#check if position is taken 
 
   ## we may want to CALL position_taken? from in here
 end
