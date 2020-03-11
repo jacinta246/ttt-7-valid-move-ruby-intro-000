@@ -1,6 +1,6 @@
 def valid_move?(board, index)
-if board [index] .between (0-8) && not taken == true
-#check if position is not taken 
+if board [index] .between (0-8) &&  == true
+#check if position is not taken
 
   ## we may want to CALL position_taken? from in here
 end
